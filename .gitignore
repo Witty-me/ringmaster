@@ -95,3 +95,6 @@ Session.vim
 
 # Auto-generated tag files
 tags
+
+# Videos
+*.y4m
